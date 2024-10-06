@@ -3,7 +3,7 @@ Comando de pós instalação simples do meu sistema.
 Fique à vontade em usar e compartilhar.
 Mas, se puder fazer a gentileza de por os créditos noutro arquivo que for compartilhar tendo por base este aqui, ficarei eternamente grato.
 
-# Escolha uma opção abaixo para começar!
+# Escolha uma opção abaixo para começar:
 
       1 - Básicos do Sistema.
       2 - Pacotes multimídias e MintMeta Codecs.
